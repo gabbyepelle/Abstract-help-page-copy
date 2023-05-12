@@ -55,6 +55,7 @@ body{
 
 .right a:last-child{
     background-color:  #4C5FD5;
+    padding: 6px 5px;
 }
 
 .hero-content{
